@@ -1,0 +1,5 @@
+node_modules/
+*.vsix
+.vscode-test/
+Generate color theme from current settings.jsonc
+/tmp/

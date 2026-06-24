@@ -1,0 +1,13 @@
+.git/**
+.vscode/**
+.vscode-test/**
+node_modules/**
+scripts/**
+sources/**
+tmp/**
+.gitignore
+.vscodeignore
+tsconfig.json
+package-lock.json
+*.vsix
+Generate color theme from current settings.jsonc
